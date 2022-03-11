@@ -7,7 +7,7 @@ CFLAGS=-Wall -Wextra -Werror
 all: final
 
 final: main.o
-	$(CC) $(CFLAGS) main.o -o program -lncurses
+	$(CC) $(CFLAGS) main.o -o program.exe -lncurses
 
 main.o: main.c
 	$(CC) $(CFLAGS) -c main.c 
