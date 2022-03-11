@@ -1,3 +1,3 @@
 Simple menu with highlighting and callback functions.
 
-![alt text](../pics/menu.jpg)
+<img src="../pics/menu.jpg" alt="Your image title" width="400"/>
